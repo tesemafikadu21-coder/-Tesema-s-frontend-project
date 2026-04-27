@@ -1,4 +1,4 @@
-# ☕ Tesema's Frontend Project
+#  Tesema's Frontend Project
 
 This is a responsive frontend website built using HTML, CSS, and Bootstrap.  
 It is designed to showcase my web development skills and UI design.
@@ -16,10 +16,7 @@ It is designed to showcase my web development skills and UI design.
 - HTML5
 - CSS3
 - Bootstrap
-
-## 📸 Screenshots
-(Add screenshots here later)
-
+  
 ## 🌱 My Journey
 Built from scratch as part of my learning journey in frontend development.
 
